@@ -15,3 +15,7 @@ console.log("Cálculo da média")
 //entrada
 nota1 = Number(input.question("Digite a nota1: "))
 nota2 = Number(input.question("Digite a nota2: "))
+//processamento
+media = (nota1 + nota2) / 2
+//saída
+console.log(`Média: ${media.toFixed(1)}`)
