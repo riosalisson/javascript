@@ -83,4 +83,4 @@ git status (verfica o status do repositório local em relação ao GitHub)
 
 Obsevação: digitar os comandos na raiz do repositório
 git add . (adiciona todas as alterações)
-git commit - "descrição das alterações"
+git commit -m "descrição das alterações"
