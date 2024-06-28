@@ -120,3 +120,74 @@ variáveis: nota1,nota2,media
 Entrada: nota1,nota2
 Processamento: media = (nota1 + nota2) / 2
 Saída: media
+
+_________________________________________________________________
+Exemplo 2:
+Desenvolver um app modo console para cáculo de porcentagem:
+Ex: 10% de 200 = 20
+
+200 ------------ 100%
+valor ----------  10%
+
+valor x 100 = 200 x 10
+
+         200 x 10                2000
+valor = __________     valor = ______     valor = 20
+            100                  100
+
+_________________________________________________________________
+
+y ------------ 100%
+valor ----------  x
+
+valor * 100 = y * x
+
+         y * x                2000
+valor = __________     valor = ______     valor = 20
+            100                  100
+
+
+Exercício 1:
+Desenvolver um app em modo console para calcular o valor do desconto?
+Ex:
+valor total: 200.00
+desconto: 5%
+total com desconto: 190.00
+
+valor com desconto = valor total - desconto
+
+//variáveis
+let total, desconto, totalDesconto
+
+//entrada
+total, desconto
+
+
+Exercício 2: Desenvolver um app no console para conversão de moeda (real para euro)
+
+Resolução:
+cotação da moeda: 5.89
+
+//variáveis
+let real, euro, conversao
+
+//processamento
+total - real / euro
+
+//Saída
+total
+_________________________________________________________________
+
+5) Converter a temperatura de Fahrenheit para Celsius
+
+//variáveis
+f, conversao
+
+//entrada
+f
+
+//processamento
+conversao = 5/9 * (f-32)
+
+//Saída
+valor
